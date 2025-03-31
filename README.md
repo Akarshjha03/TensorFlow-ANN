@@ -96,8 +96,8 @@ TensorBoard can be used to monitor metrics using logs.
 tensorboard --logdir=logs/
 ```
 ## 📈 Results
-Accuracy: XX% (Based on dataset and hyperparameters)
-Loss: XX
+Accuracy: 91.07% (Based on dataset and hyperparameters)
+Loss: 9.93
 You can visualize accuracy and loss curves using the matplotlib library.
 
 ## 🧑‍🏫 Customization
