@@ -10,7 +10,10 @@ This project demonstrates how to build, train, and evaluate an Artificial Neural
 - **Language**: Python  
 - **Dataset**: Custom or Predefined (e.g., MNIST, CIFAR-10, etc.)  
 - **Training**: Supervised Learning  
-- **Output**: Classification or Regression  
+- **Output**: Classification or Regression
+
+![Neural Network Diagram](https://github.com/Akarshjha03/TensorFlow-ANN/raw/main/diagram.png)
+
 
 ## 🚀 Features
 
